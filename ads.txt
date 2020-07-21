@@ -17,3 +17,8 @@ vrv-eec.etp-prod.com
 ytstatic.l.google.com
 api.segment.io
 segment.io
+
+
+
+sa.etp-prod.com/analytics.js/*
+static.crunchyroll.com/vilos/player.html$subdocument
